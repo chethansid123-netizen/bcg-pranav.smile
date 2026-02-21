@@ -1,0 +1,5 @@
+{
+  "name": "GCBP Mortgage Platform",
+  "description": "A comprehensive end-to-end mortgage loan marketplace with role-based access control for customers, sales, credit, and operations teams.",
+  "requestFramePermissions": []
+}
